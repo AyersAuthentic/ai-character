@@ -3,7 +3,7 @@ import { UserButton } from "@clerk/nextjs";
 const RootPage = () => {
   return (
     <div>
-      <UserButton afterSignOutUrl="/" />
+      <h1>Home Page</h1>
     </div>
   );
 };

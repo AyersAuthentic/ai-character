@@ -1,5 +1,5 @@
 import { Navbar } from "@/components/navbar";
-import { Divide } from "lucide-react";
+
 
 const RootLayout = ({ 
   children 
